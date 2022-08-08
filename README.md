@@ -59,7 +59,7 @@ The user imports *Tiger_Assessment* library from pip by running the following co
 
 | Variable |Class  | Description|    
 |--|--|--|    
-|date  |date  |Date of collision death (ymd)|    
+|date  |date  |Date (ymd)|    
 | County| factor | US County Names |     
 | State| factor | US State Names |     
 | FIPS| factor | US FIPS code|     
